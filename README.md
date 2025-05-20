@@ -1,3 +1,12 @@
+# **BLOG App (API_Routing)**
+![screenShort](https://github.com/mukeshvommu318/Featching_and_Routing_Part-3-NXT-/blob/49e7b57e8eba7006837a36a12b1be20ea5219559/Screenshot%20(5).png)
+
+## Learnings
+-> **Featching Data from API and Modifying the Data (Changing snake_case to camelCase)**
+
+**code**
+
+
 # **How to Deploy React Js Application into the GitHub** 
 ## Step 1: Create the GitHub repository
 ## Step 2: After Creating Repository Follow this Steps
